@@ -5,5 +5,8 @@
         
         <li> <a href="cadastro_curso.php">Novo Curso</a> </li>
         <li> <a href="lista_cursos.php">Lista de Cursos</a> </li>
+
+        <li> <a href="cadastro_matricula.php">Nova Matrícula</a> </li>
+        <li> <a href="lista_cursos.php">Lista de  Matrículas</a> </li>
     </ul>   
 </header>        
